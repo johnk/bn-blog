@@ -11,16 +11,16 @@ description: Track your blood counts.
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://bloodnumbers.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About: "about"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
