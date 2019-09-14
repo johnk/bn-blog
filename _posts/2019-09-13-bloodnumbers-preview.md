@@ -5,7 +5,7 @@ title: BloodNumbers preview
 
 Welcome to BloodNumbers.com. BloodNumbers is an iOS application for tracking your blood counts. You can consolidate
 and maintain your test data from multiple health care providers, making it easy to view and (if you want to) share
-results. Here are a few example screen shots of work in progress.
+results. Here are a few example screen shots of work in progress (using sample/demo data).
 
 ## List of your blood tests
 ![blood test list](/img/bn-test-list.png)
