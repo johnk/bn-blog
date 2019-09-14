@@ -16,4 +16,4 @@ results. Here are a few example screen shots of work in progress (using sample/d
 ## A single blood measure over time
 ![blood test measure over time](/img/bn-measure-over-time.png)
 
-I'll post more screenshots as development continues. There are a more capabilities I'm working on adding.
+I'll post more screenshots as development continues. There are many more capabilities I'm working on adding.
