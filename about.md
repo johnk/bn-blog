@@ -2,6 +2,7 @@
 layout: page
 title: About BloodNumbers
 subtitle: Track your blood counts.
+permalink: "/about.html"
 ---
 
 BloodNumbers is an iOS application for tracking your blood counts. It is currently under development, and eventually it will
