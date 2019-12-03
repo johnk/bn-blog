@@ -4,6 +4,8 @@ title: Privacy Policy
 permalink: "/privacy.html"
 ---
 
+## Privacy Policy
+
 This policy applies to all information collected or submitted on BloodNumbers’ website and our apps for iPhone and any other devices and platforms.
 
 ### Information we collect
