@@ -3,8 +3,7 @@ layout: minimal
 title: Help
 permalink: "/help/"
 ---
-
-## ![BloodNumbers icon](/img/icon-80.png) Help
+## ![BloodNumbers icon](/img/icon-80.png){:height="38px" width="38px"} Help
 
 ### Getting Started
 
