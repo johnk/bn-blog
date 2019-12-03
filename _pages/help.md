@@ -4,7 +4,7 @@ title: Help
 permalink: "/help/"
 ---
 
-## ![BloodNumbers icon](/img/icon-80.png) BloodNumbers Help
+## ![BloodNumbers icon](/img/icon-80.png) Help
 
 ### Getting Started
 
