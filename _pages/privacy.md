@@ -3,7 +3,7 @@ layout: minimal
 title: Privacy Policy
 permalink: "/privacy.html"
 ---
-## ![BloodNumbers icon](/img/icon-80.png){:height="38px" width="38px"} Privacy Policy
+## ![BloodNumbers icon](/img/icon-80.png) Privacy Policy
 
 This policy applies to all information collected or submitted on BloodNumbers’ website and our apps for iPhone and any other devices and platforms.
 
