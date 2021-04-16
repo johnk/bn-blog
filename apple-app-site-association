@@ -8,7 +8,7 @@ permalink: .well-known/apple-app-site-association
         "details": [
             {
                 "appID": "BXHQ5RD2ZD.com.johnkeyes.BloodNumbers",
-                "paths": [ "/app/", "NOT /*"]
+                "paths": [ "/app/*"]
             }
         ]
     }
