@@ -3,13 +3,17 @@ layout: none
 permalink: .well-known/apple-app-site-association
 ---
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "BXHQ5RD2ZD.com.johnkeyes.BloodNumbers",
-                "paths": [ "/app/*"]
-            }
-        ]
-    }
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "BXHQ5RD2ZD.com.johnkeyes.BloodNumbers" ],
+             "components": [
+               {
+                  "/": "/app/*",
+                  "comment": "Matches any URL whose path starts with /app/"
+               }
+             ]
+           }
+       ]
+   }
 }
