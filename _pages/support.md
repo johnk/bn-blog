@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: Support
-permalink: "/support/"
+permalink: "/support.html"
 ---
 ## ![BloodNumbers icon](/img/icon-80.png) Support
 
